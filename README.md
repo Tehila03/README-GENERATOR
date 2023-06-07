@@ -24,7 +24,7 @@
   
   
   ## Demo 
-  Demo goes here.
+  
 
 
   ## Installation 
@@ -44,5 +44,5 @@
 
 
   ## Questions
-  Reach out to the repo owner, [Tehila03](https://github.com/Tehila03) or email at tehilabootcamp@gmail.com
+  Reach out to the repo owner via email at tehilabootcamp@gmail.com
   

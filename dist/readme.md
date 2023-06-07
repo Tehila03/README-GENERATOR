@@ -1,5 +1,5 @@
 
-  # readme generator
+  # README Generator
 
   ## Table of Contents
   - [Description](#project-description)
@@ -11,23 +11,22 @@
 
 
   ## Project Description
-  generator
+  A high quality README 
    
   
   
-
   ## Installation 
-  install
+  git clone
 
   ## Usage 
-  use
+  node index.js
 
   ## Contribution
-  fork it
+  you can fork it 
 
   ## Testing
-  test
+  testing by node index.js
 
   ## Questions
-  Reach out to the repo owner, [tehila](https://github.com/tehila) at @gmail.com.
+  Reach out to the repo owner, [Tehila03](https://github.com/Tehila03) at tehilabootcamp@gmail.com.
   
