@@ -24,7 +24,8 @@
   
   
   ## Demo 
-  
+  ![README Generator](https://github.com/Tehila03/README-Generator/assets/125328462/c2b75742-ee07-4db2-9987-198cb711bb0b)
+
 
 
   ## Installation 
