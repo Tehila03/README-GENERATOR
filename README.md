@@ -12,7 +12,7 @@
 
 
   ## Project Description
-  This project was done to complete the requirements for Module 9 of the GW Full Stack Web Development Bootcamp. It allows users to automatically generate a Readme Markdown file from the command-line by answering a series of questions.
+  This project was done to complete the requirements for Module 9 of the UM Full Stack Web Development Bootcamp. It allows users to automatically generate a Readme Markdown file from the command-line by answering a series of questions.
   
 
   ### Licensing 
